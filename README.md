@@ -1,5 +1,7 @@
 # Range Signals A.I
 
+![Range Signals](Range%20Signals%201D.png)
+
 Welcome to the next level of trading with Range Signals, a cutting-edge trading tool developed with artificial intelligence and advanced filtering techniques. This indicator provides real-time signals, enabling traders to seize the best opportunities in the financial markets.
 
 ## Features
